@@ -24,7 +24,7 @@ Focus Areas:
 - Cloud segmentation
 - Security governance alignment
 
-[Read Full Sample →](./sample-1-sdn-architecture.md)
+[Read Full Sample →](https://github.com/AutomaticControl9/AutomaticControl9/blob/main/sample-2-automation-governance.md))
 
 ---
 
@@ -39,4 +39,4 @@ Focus Areas:
 - Pipeline integrity
 - Continuous control validation
 
-[Read Full Sample →](./sample-2-automation-governance.md)
+[Read Full Sample →](https://github.com/AutomaticControl9/AutomaticControl9/blob/main/sample-2-automation-governance.md)
