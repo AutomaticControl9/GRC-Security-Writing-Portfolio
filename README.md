@@ -40,3 +40,20 @@ Focus Areas:
 - Continuous control validation
 
 [Read Full Sample →](https://github.com/AutomaticControl9/AutomaticControl9/blob/main/sample-2-automation-governance.md)
+
+---
+
+## Sample 3 - Architectural Security in AI Data Engines
+
+Summary: 
+Explores the shift toward unified, pluggable relational database engines as the ideal AI infrastructure for 2026.
+
+Focus Areas: 
+- Eliminating the "Silo Tax"
+- Concurrency and the Thread-Pool Advantage
+- The Power of Hybrid Querying
+- Pluggable Storage
+- GRC Frontier
+- Operational Sanity
+
+[Read Full Sample →](https://github.com/AutomaticControl9/AutomaticControl9/blob/main/Sample%203-%20Architectural%20Security%20in%20AI%20Data%20Engines.md)
